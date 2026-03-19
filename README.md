@@ -9,6 +9,11 @@
 
 ---
 
+
+<p align="center">
+  <img src="lab.jpg" width="700" alt="Electronics Lab -- Vaasa, Finland" />
+</p>
+
 ### :wrench: About Me
 
 I'm an **Electronics & IoT Hardware Engineer** based in **Vaasa, Finland**, currently completing my **MSc in Sustainable & Autonomous Systems** (University of Vaasa & University of Oulu). My core expertise is in **embedded systems, PCB design, and firmware development** -- I design and deliver IoT hardware products from concept through schematic design, PCB layout, firmware, testing, and **mass production**.
