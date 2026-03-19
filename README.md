@@ -104,12 +104,12 @@ I use **Claude AI, GitHub Copilot, and AI terminal agents** as force multipliers
 
 ### :trophy: Achievements
 
-- :first_place_medal: Finland Scholarship -- Academic Excellence (Top Student in Batch)
-- :first_place_medal: Level 2 Seller on Fiverr -- 20+ projects, 5-star reviews worldwide
-- :first_place_medal: KIWA Electrical Safety Card (SFS 6002)
-- :first_place_medal: OrCAD/Allegro Certified (Danfoss Training)
-- :first_place_medal: Robotics Competition Winner -- R-Hex Robot & Underwater Drone
-- :first_place_medal: Award of Recognition -- Pakistan Association of Automotive Parts
+- :1st_place_medal: Finland Scholarship -- Academic Excellence (Top Student in Batch)
+- :1st_place_medal: Level 2 Seller on Fiverr -- 20+ projects, 5-star reviews worldwide
+- :1st_place_medal: KIWA Electrical Safety Card (SFS 6002)
+- :1st_place_medal: OrCAD/Allegro Certified (Danfoss Training)
+- :1st_place_medal: Robotics Competition Winner -- R-Hex Robot & Underwater Drone
+- :1st_place_medal: Award of Recognition -- Pakistan Association of Automotive Parts
 
 ---
 
